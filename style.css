@@ -11,6 +11,11 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
+a{
+text-decoration: none;
+
+}
+
 .headerMenu{
    
     width: 99%;
@@ -89,6 +94,7 @@ li{
 
 .dEpisode{
     padding: 70px;
+    position: relative;
     
     
 }
